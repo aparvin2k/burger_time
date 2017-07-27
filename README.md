@@ -8,6 +8,11 @@ Follows the MVC design pattern and uses Node and MySQL to query and route data i
 with Handlebars to generate the HTML.
  ```
 
+### Preview Site
+https://intense-refuge-76351.herokuapp.com/
+
+```
+
 ### Getting Started
 
 ```
